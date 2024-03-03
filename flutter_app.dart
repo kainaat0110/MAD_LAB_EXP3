@@ -48,7 +48,7 @@ class _ProfileBodyState extends State<ProfileBody> {
           ),
           SizedBox(height: 20),
           Text(
-            'Nigel Silveira',
+            'Kainaat',
             style: TextStyle(
               fontSize: 24,
               fontWeight: FontWeight.bold,
@@ -88,7 +88,7 @@ class _ProfileBodyState extends State<ProfileBody> {
             children: [
               Icon(Icons.email),
               SizedBox(width: 10),
-              Text('nigel07@gmail.com'),
+              Text('kainaat123.com'),
             ],
           ),
         ],
